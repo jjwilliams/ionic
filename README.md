@@ -2,8 +2,7 @@
 
 The best place to start with Ionic is our [documentation page](http://ionicframework.com/docs/).
 
-Note: Ionic currently best supports iOS 6+ and Android 4.1+, with limited support for Android 2.3. Ionic is changing quickly as we work towards the beta.
-
+Ionic currently best supports iOS 6+ and Android 4.1+, with limited support for Android 2.3 (which is [dying off](http://developer.android.com/about/dashboards/index.html?utm_source=ausdroid.net) faster every day)
 # What is Ionic?
 
 Ionic is the open source HTML5 Mobile Framework for building amazing, cross-platform hybrid native apps with HTML, JavaScript, and CSS. Just like this one:
